@@ -1,0 +1,6 @@
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics\DelegateBasics\bin\Debug\DelegateBasics.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics\DelegateBasics\obj\Debug\DelegateBasics.csprojResolveAssemblyReference.cache
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics\DelegateBasics\bin\Debug\DelegateBasics.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics\DelegateBasics\bin\Debug\DelegateBasics.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics\DelegateBasics\obj\Debug\DelegateBasics.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\DelegateBasics\DelegateBasics\obj\Debug\DelegateBasics.pdb
